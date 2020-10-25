@@ -1,0 +1,15 @@
+button {
+  color: red;
+  width: 50%;
+}
+
+.container {
+    background: #129a22;
+}
+
+section {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid #000000;
+    color: #ffffff;
+}
